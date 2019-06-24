@@ -11,11 +11,11 @@ First, get the script and make it executable :
 
 ```
 wget https://raw.githubusercontent.com/waelisa/OpenVPN-Installer/master/openvpn-install.sh
-chmod +x openvpn-installer.sh
+chmod +x openvpn-install.sh
 ```
 Then run it :
 
-`./openvpn-installer.sh`
+`./openvpn-install.sh`
 
 The first time you run it, you'll have to follow the assistant and answer a few questions to setup your VPN server.
 
