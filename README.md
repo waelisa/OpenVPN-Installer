@@ -10,7 +10,7 @@ This script will let you setup your own secure VPN server in just a few minutes.
 First, get the script and make it executable :
 
 ```
-wget https://github.com/waelisa/OpenVPN-Installer/raw/master/openvpn-installer.sh
+wget https://raw.githubusercontent.com/waelisa/OpenVPN-Installer/master/openvpn-install.sh
 chmod +x openvpn-installer.sh
 ```
 Then run it :
