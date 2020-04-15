@@ -1,7 +1,14 @@
 #!/bin/bash
-
+#############################################################################################################################
+# License (MIT)
+# Wael Isa
+# 15/04/2020
+# https://www.wael.name/linux/how-to-install-openvpn/
+# https://github.com/waelisa/OpenVPN-Installer
+# This script is based on the great work of angristan and its contributors
 # Secure OpenVPN server installer for Debian, Ubuntu, CentOS, Fedora and Arch Linux
 # https://github.com/angristan/openvpn-install
+#############################################################################################################################
 
 function isRoot () {
 	if [ "$EUID" -ne 0 ]; then
