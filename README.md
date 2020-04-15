@@ -49,3 +49,5 @@ This script is based on the great work of [angristan and its contributors](https
 9) Cloudflare
 
 10) Quad 9 (malware, phishing sites and scam sites)
+
+11) Quad 9 (plin - uncensored)
