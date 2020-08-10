@@ -36,11 +36,11 @@ This script is based on the great work of [angristan and its contributors](https
 
 3) OpenDNS
 
-4) NTT
+4) FDN (France)
 
-5) Hurricane Electric
+5) DNS.WATCH (Germany)
 
-6) Verisign
+6) Yandex Basic (Russia)
 
 7) AdGuard DNS (Can block ADS)
 
